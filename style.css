@@ -267,6 +267,10 @@ nav, a{
   font-size: 1.5rem;
   color: rgb(200, 200, 200);
 }
+.blue{
+  z-index: 1;
+}
+
 
 /* 6 pag */
 
