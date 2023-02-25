@@ -52,10 +52,10 @@ nav, a{
   font-weight: bold;
 }
 .buy-button:hover {
-  box-shadow: inset 0px 0px 15px #acb5be;
+  box-shadow: inset 0px 0px 15px #75a3d4;
 }
 .buy-button:after {
-  box-shadow: inset 0px 0px 15px #acb5be;
+  box-shadow: inset 0px 0px 15px #75a3d4;
 }
 
 /* Primer pag */
